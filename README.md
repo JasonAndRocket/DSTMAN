@@ -4,3 +4,6 @@
 + lib: contains self-defined modules for our work, such as data loading, data pre-process,and utils.
 + model: implementation of our DSTMAN model.
 + METAformer: contains modules necessary for DSTMAN to run, such as configurations, trainer and main.
+
+# Requirements
+Python 3.6.5, Pytorch 1.1.0, Numpy 1.16.3, argparse and configparser.
